@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Mulderink1/go_1.18/generics"
+import "github.com/Mulderink1/go_1.18beta2/generics"
 
 func main() {
 	var g generics.GenericT[int, int32]
